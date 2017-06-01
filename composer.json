@@ -1,0 +1,11 @@
+{
+  "name": "ranger-x/petrovich-php",
+  "require": {
+    "php": ">=5.3.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "\\": ""
+    }
+  }
+}
